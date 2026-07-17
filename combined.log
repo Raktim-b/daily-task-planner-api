@@ -1,0 +1,1128 @@
+{"level":"error","message":"Failed to start server: Unknown database 'task_planner'","service":"user-service","timestamp":"2026-07-11T17:52:13.456Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:54:17.866Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:54:18.183Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:54:18.193Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:56:59.820Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:00.197Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:00.202Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:03.640Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:03.945Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:03.950Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:14.385Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:14.713Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:14.718Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:22.075Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:23.376Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:23.657Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:23.663Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:29.082Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:29.454Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:29.460Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:32.251Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:32.540Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:32.547Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T17:57:37.426Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T17:57:37.710Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T17:57:37.713Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:01:02.218Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:01:04.012Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T18:01:04.407Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T18:01:04.416Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:01:07.223Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T18:01:07.659Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T18:01:07.665Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:23:34.781Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:23:35.131Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:30:22.848Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:30:23.227Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:31:14.937Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T18:31:15.271Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T18:31:15.279Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:31:21.435Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-11T18:31:21.734Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-11T18:31:21.738Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:31:24.674Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:31:24.889Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:32:09.849Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:32:10.241Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:32:34.227Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:32:34.642Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:32:46.355Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:32:46.589Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:34:14.864Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:34:15.309Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:34:50.493Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:34:50.823Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:34:53.902Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:34:54.235Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:34:55.934Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:34:56.349Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:35:49.520Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:35:49.888Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:35:55.716Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:35:55.912Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:36:00.382Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:36:00.550Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:36:03.004Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:36:03.174Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:36:05.763Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:36:05.943Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:36:09.470Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:36:09.657Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:36:13.439Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:36:13.632Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:36:17.165Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:36:17.338Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:40:20.077Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:40:20.362Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:40:22.813Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:40:23.038Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:40:41.366Z"}
+{"level":"error","message":"Failed to start server: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1","service":"user-service","timestamp":"2026-07-11T18:40:41.393Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:40:48.458Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:40:48.846Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:40:50.768Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:40:50.940Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:40:56.805Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:40:57.245Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:41:00.923Z"}
+{"level":"error","message":"Failed to start server: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1","service":"user-service","timestamp":"2026-07-11T18:41:01.132Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:41:03.010Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:41:03.226Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:41:10.133Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:41:10.560Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:41:52.443Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:41:52.702Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:00.508Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:00.730Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:07.300Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:07.555Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:08.765Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:09.110Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:09.981Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:10.178Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:12.350Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:12.632Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:48.657Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:48.943Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:49.846Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:50.077Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:42:54.874Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:42:55.173Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:14.397Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:14.640Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:20.265Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:20.485Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:21.583Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:21.795Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:26.541Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:26.765Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:27.872Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:28.080Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:42.147Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:42.368Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:50.123Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:50.368Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:43:56.087Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:43:56.366Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:45:02.983Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:45:03.311Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:45:04.228Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:45:04.570Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:47:47.553Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:47:48.188Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:47:49.618Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:47:50.026Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:49:31.387Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:49:31.754Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:49:37.128Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-11T18:49:37.427Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:50:30.226Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:50:30.287Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:50:46.762Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:50:46.845Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:51:07.100Z"}
+{"level":"error","message":"Failed to start server: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'false' at line 1","service":"user-service","timestamp":"2026-07-11T18:51:07.182Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:51:30.786Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:51:31.395Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:51:36.972Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:51:37.043Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:52:55.862Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:52:56.093Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:53:26.469Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:53:26.582Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:53:27.569Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:53:28.439Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:53:28.494Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:53:32.514Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:53:32.611Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:53:49.731Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:53:49.871Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:53:54.163Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:53:54.223Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:54:04.022Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:54:04.079Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:54:16.345Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:54:16.414Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:54:18.533Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:54:18.616Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:55:46.800Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:55:47.040Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:56:14.102Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:56:14.172Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:57:56.725Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:57:56.801Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:58:00.490Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:58:00.565Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:58:02.116Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:58:02.186Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:59:11.444Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:59:11.572Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:59:16.130Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:59:16.284Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T18:59:17.505Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T18:59:17.558Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:00:49.334Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:00:49.456Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:01:06.498Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:01:06.577Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:10.456Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:10.550Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:11.656Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:11.731Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:18.067Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:18.153Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:22.842Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:22.916Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:45.431Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:45.496Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:50.610Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:50.669Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:02:52.460Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:02:52.516Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:03:06.916Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:03:06.986Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:05:27.916Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:05:28.171Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:08:47.846Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:08:48.183Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:09:06.159Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:09:06.247Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:09:09.203Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:09:09.266Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:09:45.979Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:09:46.045Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:10:32.761Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:10:32.955Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-11T19:10:50.097Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-11T19:10:50.203Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:06:45.512Z"}
+{"level":"error","message":"Failed to start server: Too many keys specified; max 64 keys allowed","service":"user-service","timestamp":"2026-07-12T07:06:45.657Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:14:27.437Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-12T07:14:27.483Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:14:33.632Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-12T07:14:33.658Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:18:38.733Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-12T07:18:38.761Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:18:49.658Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-12T07:18:49.687Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:18:54.207Z"}
+{"level":"error","message":"Failed to start server: Referencing column 'userId' and referenced column 'id' in foreign key constraint 'emailverifications_ibfk_1' are incompatible.","service":"user-service","timestamp":"2026-07-12T07:18:54.252Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T07:21:32.277Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T07:21:32.445Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T07:21:32.449Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T08:16:45.180Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T08:16:45.244Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T08:16:45.248Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T08:18:40.331Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T08:18:40.360Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T08:18:40.364Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T08:18:45.012Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T08:18:45.047Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T08:18:45.052Z"}
+{"level":"info","message":"User registered successfully: ethan@yopmail.com","service":"user-service","timestamp":"2026-07-12T08:18:57.029Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T09:45:20.335Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T09:45:20.387Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T09:45:20.394Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T09:47:20.285Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T09:47:20.479Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T09:47:20.483Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T09:47:29.697Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T09:47:29.730Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T09:47:29.734Z"}
+{"level":"info","message":"User registered successfully: ethan@yopmail.com","service":"user-service","timestamp":"2026-07-12T09:47:37.661Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T10:09:44.234Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T10:09:44.303Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T10:09:44.309Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T10:10:42.151Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T10:10:42.189Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T10:10:42.193Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T10:10:43.393Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T10:10:43.491Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T10:10:43.497Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T10:10:45.764Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T10:10:45.792Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T10:10:45.795Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:48:43.303Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:48:43.458Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:48:43.466Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:48:46.088Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:48:46.113Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:48:46.118Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:51:17.528Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:51:17.563Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:51:17.567Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:52:07.227Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:52:07.494Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:52:07.500Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:52:10.807Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:52:10.858Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:52:10.862Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:52:14.030Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:52:14.071Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:52:14.077Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:53:35.923Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:53:35.957Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:53:35.962Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T12:53:37.609Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T12:53:37.645Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T12:53:37.650Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:03:50.861Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:03:50.915Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:03:50.921Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:04:02.590Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:04:02.624Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:04:02.629Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:04:23.523Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:04:23.561Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:04:23.569Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:06:48.372Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:06:48.523Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:06:48.528Z"}
+{"level":"error","message":"Error registering user: Table 'task_planner.users' doesn't exist","service":"user-service","timestamp":"2026-07-12T13:37:45.937Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:38:02.731Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:38:03.158Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:38:03.164Z"}
+{"level":"error","message":"Error registering user: verification is not defined","service":"user-service","timestamp":"2026-07-12T13:38:09.427Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:40:49.292Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:40:49.334Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:40:49.339Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:52:19.991Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:52:20.039Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:52:20.043Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:52:39.167Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:52:39.214Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:52:39.221Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:52:40.874Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:52:40.905Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:52:40.909Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:52:58.430Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:52:58.467Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:52:58.471Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T13:53:02.149Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T13:53:02.175Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T13:53:02.178Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:25:26.656Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:25:26.757Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:25:26.763Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:25:53.734Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:25:53.781Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:25:53.784Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:34:10.066Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:34:10.140Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:34:10.147Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:34:12.456Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:34:12.497Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:34:12.502Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:34:14.277Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:34:14.319Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:34:14.324Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:34:26.087Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:34:26.412Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:34:26.418Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:34:32.338Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:34:32.496Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:34:32.501Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T14:34:34.294Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T14:34:34.349Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T14:34:34.354Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:27:34.696Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:27:34.885Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:27:34.889Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:18.088Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:18.125Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:18.129Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:19.652Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:19.686Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:19.690Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:25.134Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:25.160Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:25.162Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:29.166Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:29.192Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:29.195Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:53.333Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:53.371Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:53.373Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:54.867Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:54.891Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:54.894Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:28:58.570Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:28:58.597Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:28:58.599Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:29:00.620Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:29:00.647Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:29:00.650Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:29:04.323Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:29:04.367Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:29:04.370Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:29:06.033Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:29:06.071Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:29:06.074Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:29:09.657Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:29:09.686Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:29:09.689Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:32:08.431Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:32:08.608Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:32:08.615Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:32:12.984Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:32:13.025Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:32:13.028Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:32:30.416Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:32:30.480Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:32:30.486Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:38:56.197Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:38:56.287Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:38:56.292Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:38:57.536Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:38:57.572Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:38:57.574Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:39:54.866Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:39:54.934Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:39:54.940Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:01.647Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:01.678Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:01.680Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:03.752Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:03.787Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:03.790Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:06.185Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:06.211Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:06.214Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:15.269Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:15.299Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:15.302Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:33.687Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:33.714Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:33.717Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:40.310Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:40.341Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:40.344Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:44.810Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:44.837Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:44.840Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:49.635Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:49.685Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:49.690Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:40:52.048Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:40:52.101Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:40:52.107Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:06.575Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:06.607Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:06.610Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:08.309Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:08.340Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:08.343Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:09.464Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:09.495Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:09.498Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:10.552Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:10.585Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:10.588Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:15.030Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:15.106Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:15.111Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:19.063Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:19.091Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:19.095Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:30.146Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:30.174Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:30.177Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:31.156Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:31.180Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:31.183Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:39.055Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:39.087Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:39.090Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:42.894Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:42.924Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:42.927Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:45.187Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:45.217Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:45.220Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:41:47.612Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:41:47.636Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:41:47.639Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:10.015Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:10.047Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:10.050Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:23.606Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:23.636Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:23.638Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:26.951Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:26.999Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:27.004Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:29.279Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:29.323Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:29.326Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:54.487Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:54.547Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:54.552Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:55.482Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:55.529Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:55.532Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:43:58.671Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:43:58.705Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:43:58.709Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:44:02.206Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:44:02.247Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:44:02.250Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:44:03.522Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:44:03.548Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:44:03.551Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:44:07.759Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:44:07.791Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:44:07.793Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:44:09.548Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:44:09.579Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:44:09.582Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:44:13.259Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:44:13.294Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:44:13.297Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:44:18.247Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:44:18.277Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:44:18.279Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:45:28.471Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:45:28.504Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:45:28.506Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:45:42.791Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:45:42.819Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:45:42.821Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:45:54.958Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:45:54.987Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:45:54.990Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:45:56.117Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:45:56.147Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:45:56.150Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:46:17.076Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:46:17.167Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:46:17.172Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:46:21.071Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:46:21.099Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:46:21.102Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:46:43.325Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:46:43.365Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:46:43.368Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:46:52.268Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:46:52.308Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:46:52.312Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:46:56.761Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:46:56.797Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:46:56.801Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:46:59.101Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:46:59.178Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:46:59.183Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:47:00.162Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:47:00.202Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:47:00.207Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:47:02.070Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:47:02.102Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:47:02.104Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:47:53.081Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:47:53.109Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:47:53.112Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:47:58.610Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:47:58.637Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:47:58.641Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:48:22.047Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:48:22.077Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:48:22.080Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:48:28.556Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:48:28.600Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:48:28.605Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:48:31.518Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:48:31.587Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:48:31.593Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:48:33.291Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:48:33.321Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:48:33.324Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:48:48.539Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:48:48.595Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:48:48.600Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:48:50.216Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:48:50.250Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:48:50.253Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:10.870Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:10.904Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:10.907Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:17.586Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:17.627Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:17.632Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:33.365Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:33.393Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:33.396Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:43.228Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:43.252Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:43.254Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:44.308Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:44.345Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:44.348Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:45.920Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:45.945Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:45.947Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:49:51.361Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:49:51.389Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:49:51.394Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:04.444Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:04.468Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:04.470Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:08.516Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:08.561Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:08.568Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:09.867Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:09.891Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:09.894Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:12.907Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:12.934Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:12.936Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:16.669Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:16.699Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:16.702Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:20.033Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:20.074Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:20.076Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:22.652Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:22.691Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:22.694Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:26.560Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:26.583Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:26.585Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:29.542Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:29.576Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:29.578Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:30.864Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:30.894Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:30.896Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:32.390Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:32.432Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:32.435Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:38.202Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:38.231Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:38.234Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:40.583Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:40.608Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:40.610Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:41.908Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:41.940Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:41.943Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T15:50:46.429Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T15:50:46.470Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T15:50:46.473Z"}
+{"level":"info","message":"User registered successfully: ethan@yopmail.com","service":"user-service","timestamp":"2026-07-12T15:58:05.804Z"}
+{"level":"info","message":"Category created: Work","service":"user-service","timestamp":"2026-07-12T16:00:49.989Z"}
+{"level":"info","message":"Category created: Personal","service":"user-service","timestamp":"2026-07-12T16:01:11.498Z"}
+{"level":"info","message":"Category created: Study","service":"user-service","timestamp":"2026-07-12T16:01:19.678Z"}
+{"level":"info","message":"Category created: Health & Fitness","service":"user-service","timestamp":"2026-07-12T16:01:33.070Z"}
+{"level":"info","message":"Category created: Urgent","service":"user-service","timestamp":"2026-07-12T16:01:39.614Z"}
+{"level":"info","message":"Category created: Family","service":"user-service","timestamp":"2026-07-12T16:01:44.817Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:03:00.327Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:03:00.421Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:03:00.427Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:03:05.705Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:03:05.739Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:03:05.742Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:03:09.834Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:03:09.866Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:03:09.869Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:03:30.919Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:03:31.015Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:03:31.022Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:05:52.865Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:05:52.942Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:05:52.948Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:05:55.596Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:05:55.634Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:05:55.637Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:05:57.262Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:05:57.295Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:05:57.298Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:06:10.613Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:06:10.645Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:06:10.648Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:06:12.695Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:06:12.725Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:06:12.728Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:06:16.553Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:06:16.595Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:06:16.599Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:06:39.157Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:06:39.186Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:06:39.189Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:33:23.466Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:33:23.587Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:33:23.596Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:33:28.282Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:33:28.338Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:33:28.343Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:33:30.258Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:33:30.307Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:33:30.310Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:33:36.412Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:33:36.454Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:33:36.457Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:33:42.598Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:33:42.656Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:33:42.662Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:35:23.925Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:35:23.994Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:35:23.999Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:35:47.935Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:35:47.999Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:35:48.005Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:35:51.829Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:35:51.886Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:35:51.890Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:36:06.094Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:36:06.152Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:36:06.156Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:36:10.137Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:36:10.210Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:36:10.219Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:36:11.519Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:36:11.591Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:36:11.597Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:36:14.090Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:36:14.152Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:36:14.159Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:38:20.874Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:38:21.010Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:38:21.018Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:38:42.033Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:38:42.082Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:38:42.087Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:38:45.355Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:38:45.418Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:38:45.423Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:38:50.562Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:38:50.620Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:38:50.626Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:38:58.560Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:38:58.615Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:38:58.619Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:39:55.480Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:39:55.557Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:39:55.563Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:39:57.867Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:39:58.006Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:39:58.013Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:40:12.018Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:40:12.072Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:40:12.077Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:40:13.729Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:40:13.775Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:40:13.779Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:40:18.841Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:40:18.884Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:40:18.888Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:40:22.774Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:40:22.838Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:40:22.843Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:42:12.827Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:42:12.952Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:42:12.958Z"}
+{"level":"info","message":"Category created: Home","service":"user-service","timestamp":"2026-07-12T16:43:15.899Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:43:48.079Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:43:48.270Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:43:48.280Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:43:58.970Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:43:59.051Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:43:59.059Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:44:15.349Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:44:15.437Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:44:15.446Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:44:23.334Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:44:23.407Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:44:23.412Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:44:30.400Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:44:30.498Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:44:30.504Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:44:36.887Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:44:36.975Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:44:36.979Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:44:39.568Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:44:39.658Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:44:39.666Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:46:25.801Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:46:25.875Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:46:25.879Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:46:36.145Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:46:36.209Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:46:36.213Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:46:38.838Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:46:38.910Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:46:38.916Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:46:41.416Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:46:41.477Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:46:41.483Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:46:45.516Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:46:45.582Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:46:45.590Z"}
+{"level":"info","message":"Category created: Home","service":"user-service","timestamp":"2026-07-12T16:49:07.214Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:50:26.176Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:50:26.296Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:50:26.306Z"}
+{"level":"info","message":"Category created: Home","service":"user-service","timestamp":"2026-07-12T16:50:48.383Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-12T16:53:09.981Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-12T16:53:10.035Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-12T16:53:10.041Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:39:08.557Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:39:08.638Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:39:08.642Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:39:13.336Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:39:13.371Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:39:13.376Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:39:17.627Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:39:17.679Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:39:17.682Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:39:23.487Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:39:23.526Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:39:23.530Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:11.036Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:11.127Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:11.134Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:12.759Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:12.798Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:12.802Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:23.702Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:23.740Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:23.743Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:31.959Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:31.990Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:31.994Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:35.393Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:35.425Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:35.429Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:54.292Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:54.324Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:54.326Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:55:55.510Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:55:55.543Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:55:55.546Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:56:01.981Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:56:02.011Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:56:02.014Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:56:43.952Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:56:43.983Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:56:43.985Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-15T16:57:51.297Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-15T16:57:51.375Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-15T16:57:51.379Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T15:36:17.730Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T15:36:17.876Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T15:36:17.882Z"}
+{"level":"info","message":"Task created: Complete Backend Authentication","service":"user-service","timestamp":"2026-07-16T16:07:52.365Z"}
+{"level":"info","message":"Task created: Attend Sprint Meeting","service":"user-service","timestamp":"2026-07-16T16:07:58.783Z"}
+{"level":"info","message":"Task created: Fix Production Bug","service":"user-service","timestamp":"2026-07-16T16:08:05.264Z"}
+{"level":"info","message":"Task created: Buy Groceries","service":"user-service","timestamp":"2026-07-16T16:08:11.705Z"}
+{"level":"info","message":"Task created: Practice Sequelize","service":"user-service","timestamp":"2026-07-16T16:08:17.521Z"}
+{"level":"info","message":"Task created: Read Node.js Documentation","service":"user-service","timestamp":"2026-07-16T16:08:24.197Z"}
+{"level":"info","message":"Task created: Family Dinner","service":"user-service","timestamp":"2026-07-16T16:08:30.864Z"}
+{"level":"info","message":"Task created: Book Train Tickets","service":"user-service","timestamp":"2026-07-16T16:08:37.457Z"}
+{"level":"info","message":"Task created: Morning Gym","service":"user-service","timestamp":"2026-07-16T16:08:43.619Z"}
+{"level":"info","message":"Task created: Evening Yoga","service":"user-service","timestamp":"2026-07-16T16:09:05.041Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:14:28.261Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:14:28.348Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:14:28.356Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:15:53.070Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:15:53.125Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:15:53.131Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:17:10.889Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:17:10.945Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:17:10.952Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:20:25.474Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:20:25.519Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:20:25.522Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:20:33.010Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:20:33.075Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:20:33.080Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:20:35.999Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:20:36.053Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:20:36.058Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:20:41.649Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:20:41.697Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:20:41.702Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:20:52.397Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:20:52.433Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:20:52.436Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:21:05.869Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:21:05.906Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:21:05.909Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:21:08.848Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:21:08.895Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:21:08.899Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:21:13.056Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:21:13.117Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:21:13.122Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:21:16.461Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:21:16.503Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:21:16.507Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:22:35.569Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:22:35.605Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:22:35.609Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:24:18.025Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:24:18.076Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:24:18.080Z"}
+{"level":"info","message":"Task updated: Evening Yoga","service":"user-service","timestamp":"2026-07-16T16:24:20.062Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:27:04.275Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:27:04.330Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:27:04.335Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:31:28.299Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:31:28.363Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:31:28.368Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:31:31.378Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:31:31.419Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:31:31.422Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:31:34.495Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:31:34.550Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:31:34.554Z"}
+{"level":"error","message":"Cannot destructure property 'title' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-16T16:32:49.765Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:33:02.358Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:33:02.415Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:33:02.421Z"}
+{"level":"info","message":"Task deleted: Evening Yoga","service":"user-service","timestamp":"2026-07-16T16:33:02.783Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:39:36.870Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:39:36.956Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:39:36.958Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:46:00.489Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:46:00.527Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:46:00.530Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:46:04.880Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:46:04.923Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:46:04.927Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:46:09.192Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:46:09.225Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:46:09.228Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:46:14.318Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:46:14.351Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:46:14.355Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:47:14.884Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:47:14.935Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:47:14.940Z"}
+{"level":"info","message":"Task deleted: Read Node.js Documentation","service":"user-service","timestamp":"2026-07-16T16:47:31.189Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T16:47:43.793Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T16:47:43.823Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T16:47:43.826Z"}
+{"level":"info","message":"Task marked as completed: Fix Production Bug","service":"user-service","timestamp":"2026-07-16T16:48:41.280Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:16:07.756Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:16:07.908Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:16:07.914Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:18:55.361Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:18:55.405Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:18:55.408Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:18:58.036Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:18:58.081Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:18:58.085Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:19:01.837Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:19:01.884Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:19:01.888Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:19:09.012Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:19:09.055Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:19:09.058Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:19:14.627Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:19:14.669Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:19:14.672Z"}
+{"level":"error","message":"Op is not defined","service":"user-service","timestamp":"2026-07-16T18:24:43.005Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:24:56.665Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:24:56.763Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:24:56.770Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:48:51.927Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:48:52.028Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:48:52.033Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:48:56.432Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:48:56.473Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:48:56.477Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:54:25.300Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:54:25.376Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:54:25.381Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:54:27.930Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:54:27.977Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:54:27.981Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:54:29.548Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:54:29.606Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:54:29.611Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:54:33.881Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:54:33.948Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:54:33.953Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T18:55:41.658Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T18:55:41.716Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T18:55:41.722Z"}
+{"level":"info","message":"Tasks reordered successfully","service":"user-service","timestamp":"2026-07-16T18:55:58.990Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T19:02:44.728Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T19:02:44.875Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T19:02:44.884Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T19:04:42.561Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T19:04:42.937Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T19:04:42.943Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T19:04:51.821Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T19:04:51.888Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T19:04:51.892Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T19:08:35.362Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T19:08:35.434Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T19:08:35.438Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-16T19:08:55.479Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-16T19:08:55.555Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-16T19:08:55.562Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:19:34.486Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:19:34.548Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:19:34.554Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:20:07.850Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:20:07.892Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:20:07.896Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:20:10.309Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:20:10.374Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:20:10.377Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:20:14.251Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:20:14.286Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:20:14.289Z"}
+{"level":"error","message":"Data truncated for column 'reminderType' at row 1","service":"user-service","timestamp":"2026-07-17T05:20:48.102Z"}
+{"level":"info","message":"Reminder added for task 4492c59a-8ca4-447f-af38-83f40f094681","service":"user-service","timestamp":"2026-07-17T05:21:59.126Z"}
+{"level":"info","message":"Reminder added for task be314322-decd-4e2a-9c17-0654a6049e71","service":"user-service","timestamp":"2026-07-17T05:22:11.009Z"}
+{"level":"info","message":"Reminder added for task eff703ca-c9e9-4155-b06c-1fa9755603cc","service":"user-service","timestamp":"2026-07-17T05:22:21.136Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:25:30.117Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:25:30.152Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:25:30.156Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:25:34.813Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:25:34.843Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:25:34.846Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:25:36.563Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:25:36.597Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:25:36.599Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:25:39.611Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:25:39.642Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:25:39.644Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:25:43.661Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:25:43.689Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:25:43.691Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:27:06.967Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:27:06.997Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:27:07.000Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:27:10.860Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:27:10.888Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:27:10.890Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:27:16.245Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:27:16.278Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:27:16.280Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:27:20.237Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:27:20.263Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:27:20.265Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:27:23.748Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:27:23.775Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:27:23.778Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T05:27:25.355Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T05:27:25.382Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T05:27:25.384Z"}
+{"level":"info","message":"Reminder added for task 483f4182-9701-4b75-afe7-965a35fb139f","service":"user-service","timestamp":"2026-07-17T05:28:14.989Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T06:17:15.435Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T06:17:15.496Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T06:17:15.500Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:19:48.061Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:19:48.203Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:19:48.211Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:33:21.333Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:33:21.425Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:33:21.431Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:33:39.583Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:33:39.659Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:33:39.663Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:34:08.485Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:34:09.415Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:34:09.493Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:34:09.499Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:34:12.386Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:34:12.472Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:34:12.479Z"}
+{"level":"error","message":"Unknown column 'completedAt' in 'field list'","service":"user-service","timestamp":"2026-07-17T10:34:15.108Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:35:48.938Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:35:50.725Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:35:50.732Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:36:13.980Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:36:15.750Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:36:15.755Z"}
+{"level":"info","message":"Task marked as completed: Fix Production Bug","service":"user-service","timestamp":"2026-07-17T10:36:16.142Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:36:21.944Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:36:23.704Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:36:23.709Z"}
+{"level":"info","message":"Task marked as completed: Fix Production Bug","service":"user-service","timestamp":"2026-07-17T10:36:24.207Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:36:55.362Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:36:57.075Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:36:58.683Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:36:58.688Z"}
+{"level":"info","message":"Task marked as completed: Fix Production Bug","service":"user-service","timestamp":"2026-07-17T10:37:01.937Z"}
+{"level":"info","message":"Task marked as completed: Book Train Tickets","service":"user-service","timestamp":"2026-07-17T10:37:19.653Z"}
+{"level":"info","message":"Task marked as completed: Attend Sprint Meeting","service":"user-service","timestamp":"2026-07-17T10:37:30.597Z"}
+{"level":"info","message":"Task marked as completed: Buy Groceries","service":"user-service","timestamp":"2026-07-17T10:37:39.911Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:22.410Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:23.682Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:39:25.439Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:39:25.444Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:29.112Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:39:31.091Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:39:31.096Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:35.196Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:37.414Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:39:39.433Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:39:39.438Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:40.719Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:39:44.382Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:39:47.016Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:39:47.025Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:40:14.243Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:40:16.466Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:40:16.472Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:43:27.110Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:43:29.268Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:43:29.274Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:44:59.963Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:45:03.726Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:45:06.432Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:45:06.438Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:45:10.455Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:45:13.312Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:45:16.379Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:45:16.386Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:45:50.846Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:45:53.226Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:45:53.233Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:08.272Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:10.685Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:46:12.976Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:46:12.982Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:17.652Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:46:20.198Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:46:20.203Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:30.934Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:33.515Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:35.871Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:46:38.753Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:46:38.761Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:54.974Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:46:58.161Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:46:58.169Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:46:59.554Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:47:01.029Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:47:03.755Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:47:03.764Z"}
+{"level":"error","message":"No recipients defined","service":"user-service","timestamp":"2026-07-17T10:47:40.250Z"}
+{"level":"info","message":"Database connected","service":"user-service","timestamp":"2026-07-17T10:50:32.760Z"}
+{"level":"info","message":"Database synced","service":"user-service","timestamp":"2026-07-17T10:50:36.540Z"}
+{"level":"info","message":"Server running on port 4034","service":"user-service","timestamp":"2026-07-17T10:50:36.549Z"}

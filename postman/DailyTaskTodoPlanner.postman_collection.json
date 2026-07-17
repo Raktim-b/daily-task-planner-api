@@ -1,0 +1,868 @@
+{
+  "info": {
+    "_postman_id": "e4d6faa6-24df-43f0-b392-1030e9d648c6",
+    "name": "DailyTaskTodoPlanner",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52310874",
+    "_collection_link": "https://go.postman.co/collection/52310874-e4d6faa6-24df-43f0-b392-1030e9d648c6?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Auth",
+      "item": [
+        {
+          "name": "http://localhost:4034/auth/register",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"name\": \"Ethan\",\r\n  \"email\": \"ethan@yopmail.com\",\r\n  \"password\": \"Ethan@123\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/auth/register",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "auth",
+                "register"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/auth/login",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"email\": \"ethan@yopmail.com\",\r\n    \"password\": \"Ethan@123\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/auth/login",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "auth",
+                "login"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/auth/refresh-token",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "refresh-token",
+                "value": "{{json_web_token_07bm}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:4034/auth/refresh-token",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "auth",
+                "refresh-token"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/auth/profile",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{json_web_token_0eib}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:4034/auth/profile",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "auth",
+                "profile"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Category",
+      "item": [
+        {
+          "name": "http://localhost:4034/category/create",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0ojj}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"name\": \"Family\",\r\n  \"description\": \"Family events, responsibilities, and reminders.\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/category/create",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "category",
+                "create"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/category/get",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0kf1}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"name\": \"Family\",\r\n  \"description\": \"Family events, responsibilities, and reminders.\"\r\n}"
+            },
+            "url": {
+              "raw": "http://localhost:4034/category/get",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "category",
+                "get"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/category/update/0ea0a4a5-3e6d-4309-8ad8-a2b4afccd2b1",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0hwu}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"description\": \"Tasks related to office-work, meetings, and projects.\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/category/update/0ea0a4a5-3e6d-4309-8ad8-a2b4afccd2b1",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "category",
+                "update",
+                "0ea0a4a5-3e6d-4309-8ad8-a2b4afccd2b1"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/category/delete/6b34bda7-2af6-4b91-8751-b85a1ab9ae4f",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "DELETE",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0kf1}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"name\": \"Family\",\r\n  \"description\": \"Family events, responsibilities, and reminders.\"\r\n}"
+            },
+            "url": {
+              "raw": "http://localhost:4034/category/delete/6b34bda7-2af6-4b91-8751-b85a1ab9ae4f",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "category",
+                "delete",
+                "6b34bda7-2af6-4b91-8751-b85a1ab9ae4f"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/category/create/label",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0zq0}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"name\": \"Work\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/category/create/label",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "category",
+                "create",
+                "label"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/category/categories-labels",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_17e5}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"name\": \"Work\"\r\n}"
+            },
+            "url": {
+              "raw": "http://localhost:4034/category/categories-labels",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "category",
+                "categories-labels"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Task",
+      "item": [
+        {
+          "name": "http://localhost:4034/task/create",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_17e5}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"title\": \"Evening Yoga\",\r\n  \"description\": \"45 minutes stretching and meditation\",\r\n  \"priority\": \"Low\",\r\n  \"dueDate\": \"2026-07-19T19:00:00.000Z\",\r\n  \"categoryId\": \"98cc33de-e710-4f01-924b-726bf73d094a\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/task/create",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "task",
+                "create"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/task/update/ac13093e-133b-458c-af18-4913b1b10f97",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0vpy}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"description\": \"55 minutes stretching and meditation\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/task/update/ac13093e-133b-458c-af18-4913b1b10f97",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "task",
+                "update",
+                "ac13093e-133b-458c-af18-4913b1b10f97"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/task/delete/ac13093e-133b-458c-af18-4913b1b10f97",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "DELETE",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_142n}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://localhost:4034/task/delete/ac13093e-133b-458c-af18-4913b1b10f97",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "task",
+                "delete",
+                "ac13093e-133b-458c-af18-4913b1b10f97"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/task/completed/483f4182-9701-4b75-afe7-965a35fb139f",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "PATCH",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_07ki}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/task/completed/aec624b8-b7c1-4595-acf4-2435e01250bc",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "task",
+                "completed",
+                "aec624b8-b7c1-4595-acf4-2435e01250bc"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/task/list",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{json_web_token_0o7p}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"dueDate\": \"tomorrow\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/task/list?dueDate=tomorrow",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "task",
+                "list"
+              ],
+              "query": [
+                {
+                  "key": "dueDate",
+                  "value": "tomorrow"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/task/order",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0a5w}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"tasks\": [\r\n    {\r\n      \"id\": \"be314322-decd-4e2a-9c17-0654a6049e71\",\r\n      \"order\": 1\r\n    },\r\n    {\r\n      \"id\": \"eff703ca-c9e9-4155-b06c-1fa9755603cc\",\r\n      \"order\": 2\r\n    },\r\n    {\r\n      \"id\": \"483f4182-9701-4b75-afe7-965a35fb139f\",\r\n      \"order\": 3\r\n    }\r\n  ]\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/task/order",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "task",
+                "order"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Reminder",
+      "item": [
+        {
+          "name": "http://localhost:4034/reminder/add",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_12t3}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"taskId\": \"483f4182-9701-4b75-afe7-965a35fb139f\",\r\n  \"reminderTime\": \"2026-07-21T18:00:00.000Z\",\r\n  \"reminderType\": \"Weekly\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/reminder/add",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "reminder",
+                "add"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/reminder/edit/a9ca7d65-6511-44de-a001-837dd3b68217",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_1bnk}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \r\n  \"reminderType\": \"Once\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "http://localhost:4034/reminder/edit/a9ca7d65-6511-44de-a001-837dd3b68217",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "reminder",
+                "edit",
+                "a9ca7d65-6511-44de-a001-837dd3b68217"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/reminder/delete/a9ca7d65-6511-44de-a001-837dd3b68217",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "DELETE",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_1bnk}}",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": ""
+            },
+            "url": {
+              "raw": "http://localhost:4034/reminder/delete/a9ca7d65-6511-44de-a001-837dd3b68217",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "reminder",
+                "delete",
+                "a9ca7d65-6511-44de-a001-837dd3b68217"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Report",
+      "item": [
+        {
+          "name": "http://localhost:4034/report/summary",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0gh2}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:4034/report/summary?type=day&date=2026-07-17",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "report",
+                "summary"
+              ],
+              "query": [
+                {
+                  "key": "type",
+                  "value": "day"
+                },
+                {
+                  "key": "date",
+                  "value": "2026-07-17"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "http://localhost:4034/report/insight",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "{{supabase_service_role_api_key_0lct}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:4034/report/insight",
+              "protocol": "http",
+              "host": [
+                "localhost"
+              ],
+              "port": "4034",
+              "path": [
+                "report",
+                "insight"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "json_web_token_07bm",
+      "secret": true
+    },
+    {
+      "key": "json_web_token_0eib",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0ojj",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_10v1",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0hwu",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0kf1",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0zq0",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_17e5",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0vpy",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_142n",
+      "secret": true
+    },
+    {
+      "key": "json_web_token_124m",
+      "secret": true
+    },
+    {
+      "key": "json_web_token_0o7p",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0a5w",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_12t3",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_1bnk",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0gh2",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_07ki",
+      "secret": true
+    },
+    {
+      "key": "supabase_service_role_api_key_0lct",
+      "secret": true
+    }
+  ]
+}
